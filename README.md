@@ -2,7 +2,7 @@
 - 👋 olá meu nome é @Alunarufatto
 - meu e-mail de contato é @juliarufatto06@gmail.com
 - 👀 tenho interesse em espandir meu conhecimento sobre livros
-- 🌱 vou cursar administração
+- 🌱 atualmente estou aprendendo a programar linguagem da computação java e script
 
 <!---
 Alunarufatto/Alunarufatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
